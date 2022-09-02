@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abraao8levi
-- 👀 I’m interested in JavaScript, HtML5,CSS e Java 
+- 👀 I’m interested in Programação Web HTML5, Javascript e CSS 
 - 🌱 I’m currently learning C++ 
 
 - 📫 How to reach me @Abraao8levi 
