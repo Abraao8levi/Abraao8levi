@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Atividades e trabalhos
-- 🌱 I’m currently learning  C++
+- 🌱 I’m currently learning  Java
 - 📫 How to reach me: leviabraao677@gmail.com
 - 😄 Pronouns: Ele 
 
