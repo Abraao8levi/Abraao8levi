@@ -1,6 +1,6 @@
 ### Olá pessoal! 👋
 
-- 🔭 Atualmente estou trabalhando em Atividades e Trabalhos.
+- 🔭 Atualmente estou trabalhando em Projetos e Trabalhos.
 - 🌱 Atualmente estou aprendendo Java.
 - 📫 Como me encontrar: [leviabraao677@gmail.com](mailto:leviabraao677@gmail.com)
 
