@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando em Projetos e Trabalhos.
 - 🌱 Atualmente estou aprendendo Java.
 - 📫 Como me encontrar: [leviabraao677@gmail.com](mailto:leviabraao677@gmail.com)
-- 
+  
 <div> 
   <a href="https://www.instagram.com/abraao7levi/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:leviabraao677@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
