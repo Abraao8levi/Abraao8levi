@@ -1,7 +1,7 @@
 ### Olá pessoal! 👋
 
 - 🔭 Atualmente estou trabalhando em Projetos e Trabalhos.
-- 🌱 Atualmente estou aprendendo Java.
+- 🌱 Atualmente estou aprendendo Python e Typescript.
 - 📫 Como me encontrar: [leviabraao677@gmail.com](mailto:leviabraao677@gmail.com)
   
 <div> 
