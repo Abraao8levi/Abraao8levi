@@ -19,8 +19,6 @@ Sou um entusiasta da tecnologia, sempre buscando novos desafios e aprendizados. 
 <a href="mailto:leviabraao677@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/abra%C3%A3o-levi-de-andrade-pessoa-vitoriano-53a636229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/seu-usuário-aqui/Abraao8levi/blob/output/github-contribution-grid-snake.svg)
-
 ## Minhas habilidades técnicas:
 
 <div style="display: flex; flex-direction: row; align-items: center;">
