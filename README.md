@@ -8,10 +8,12 @@ Sou um entusiasta da tecnologia, sempre buscando novos desafios e aprendizados. 
 
 ## Conecte-se comigo:
 
+<div>
 <a href="https://github.com/Abraao8levi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao8levi&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Abraao8levi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao8levi&layout=compact&langs_count=7&theme=blue-green"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Abraao8levi&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </div>
+
 
 <a href="https://www.instagram.com/abraao7levi/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:leviabraao677@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
