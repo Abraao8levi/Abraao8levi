@@ -3,7 +3,7 @@
 Sou um entusiasta da tecnologia, sempre buscando novos desafios e aprendizados. Atualmente, estou cursando Sistemas de Informação e aqui está um pouco sobre mim:
 
 - 🔭 Atualmente, estou envolvido em vários projetos e trabalhos interessantes, incluindo a implementação de soluções tecnologicas.
-- 🌱 Estou aprimorando minhas habilidades em Python, JavaScript, Docker, Java e AWS.
+- 🌱 Estou aprimorando minhas habilidades em Python, JavaScript, Java e C++.
 - 📫 Para entrar em contato comigo, envie um e-mail para leviabraao677@gmail.com
 
 ## Conecte-se comigo:
