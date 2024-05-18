@@ -1,4 +1,3 @@
-Aqui está uma versão ajustada e mais profissional do seu texto:
 
 ---
 
