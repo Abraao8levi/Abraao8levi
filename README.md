@@ -52,4 +52,4 @@ Sou um entusiasta da tecnologia, sempre em busca de novos desafios e aprendizado
 
 ---
 
-Espero que essas mudanças atendam suas expectativas!
+
