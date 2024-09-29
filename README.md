@@ -1,5 +1,7 @@
 Olá, pessoal! 👋
-Sou apaixonado por tecnologia e sempre busco desafios que me proporcionem aprendizado contínuo. Atualmente, estou cursando Sistemas de Informação e envolvido em diversos projetos que me permitem aplicar e expandir meus conhecimentos. Aqui está um pouco sobre mim:
+
+Sou apaixonado por tecnologia e sempre busco desafios que me proporcionem aprendizado contínuo. 
+Atualmente, estou cursando Sistemas de Informação e envolvido em diversos projetos que me permitem aplicar e expandir meus conhecimentos. Aqui está um pouco sobre mim:
 
 🔭 Trabalhando em projetos inovadores e na implementação de soluções tecnológicas.
 🌱 Focado no aprimoramento das minhas habilidades em Python, JavaScript e Java .
