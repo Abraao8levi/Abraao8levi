@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia e sempre busco desafios que me proporcionem aprend
 Atualmente, estou cursando Sistemas de Informação e envolvido em diversos projetos que me permitem aplicar e expandir meus conhecimentos. Aqui está um pouco sobre mim:
 
 🔭 Trabalhando em projetos inovadores e na implementação de soluções tecnológicas.
-🌱 Focado no aprimoramento das minhas habilidades em Python, JavaScript e Java.
+🌱 Focado no aprimoramento das minhas habilidades em Programação.
 📫 Você pode entrar em contato comigo através do e-mail: leviabraao677@gmail.com.
 
 Conecte-se comigo:
