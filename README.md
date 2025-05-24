@@ -36,17 +36,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
----
-
-### 💼 Projetos em destaque
-
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| **EDU Conecta** | Sistema para inclusão e acessibilidade educacional com rotas acessíveis e pontos de interesse. | [🔗 Ver no GitHub](https://github.com/Abraao8levi/EDU-Conecta) |
-| **Hamburgueria Web** | Site de pedidos com carrinho e interface responsiva usando Tailwind e JS. | [🔗 Ver projeto](https://github.com/Abraao8levi/hamburgueria-web) |
-| **Seminários de Redes** | Conteúdo acadêmico interativo com foco em protocolos, camadas e simulações. | [🔗 Repositório](https://github.com/Abraao8levi/redes-seminarios) |
-
----
 
 ### 📊 GitHub Stats
 
