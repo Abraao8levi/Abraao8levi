@@ -1,12 +1,12 @@
-<h1 align="center">👋 Olá, eu sou o Abraão Levi!</h1>
+<h1 align="center">👋 Olá, sou Abraão Levi</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação • 🚀 Fissurado por tech • 🎯 Foco em soluções práticas
+  💻 Desenvolvedor em formação • 🚀 Apaixonado por tecnologia • 🎯 Foco em soluções funcionais
 </p>
 
 <p align="center">
   <a href="https://github.com/Abraao8levi">
-    <img src="https://komarev.com/ghpvc/?username=Abraao8levi&color=blue&style=flat&label=Profile+Views" alt="Visualizações de perfil" />
+    <img src="https://komarev.com/ghpvc/?username=Abraao8levi&color=blue&style=flat&label=Visualizações+de+perfil" alt="Visualizações de perfil" />
   </a>
 </p>
 
@@ -14,11 +14,11 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação**
-- 🔭 Trabalhando em projetos **inovadores e práticos**
-- 🌱 Estudando **full stack** e mergulhando em boas práticas de desenvolvimento
-- 🧩 Curioso por natureza e viciado em resolver bugs cabeludos
-- 📫 Me chama no [Gmail](mailto:leviabraao677@gmail.com)
+- 🎓 Graduando em **Sistemas de Informação**
+- 🔭 Envolvido em projetos com foco em impacto real e aplicabilidade
+- 🌱 Estudando **desenvolvimento full stack** e melhores práticas de engenharia de software
+- 🧩 Movido por curiosidade e comprometido em resolver problemas complexos
+- 📫 Entre em contato por [Gmail](mailto:leviabraao677@gmail.com)
 
 ---
 
@@ -89,3 +89,4 @@
 <p align="center">
   <em>“Código limpo é como poesia: diz muito com poucas palavras.”</em>
 </p>
+
