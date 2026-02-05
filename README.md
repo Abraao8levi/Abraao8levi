@@ -1,78 +1,104 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abraao8levi&label=Profile+views&color=006bed&style=flat" alt="Profile views"/>
+
   <h1>Abraão Levi</h1>
+
   <p>
-    <i>FullStack Developer</i>
+    <strong>Full Stack Developer</strong>
     <br/>
-    <i>React | Vue.js | JavaScript | TypeScript | Node.js | Python | Java | MySQL | MongoDB | PostgreSQL</i>
+    React · Vue.js · JavaScript · TypeScript · Node.js · Python · Java
     <br/>
-    <i>Sistemas de Informação</i>
+    MySQL · PostgreSQL · MongoDB
+    <br/>
+    Graduando em Sistemas de Informação
+  </p>
+
+  <p>
+    <a href="#-english">
+      <img src="https://img.shields.io/badge/Read_in-English-blue?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in English">
+    </a>
+    <a href="#-português">
+      <img src="https://img.shields.io/badge/Leia_em-Português-green?style=for-the-badge&logo=google-translate&logoColor=white" alt="Leia em Português">
+    </a>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/abraãoolevivitoriano" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://abraaoleviportfolio.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:leviabraao677@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
   </p>
 </div>
 
 ---
 
-### Sobre Mim
+## <a id="-english"></a>🇺🇸 English
 
-Desenvolvedor FullStack com formação em Sistemas de Informação, especializado em desenvolvimento web com foco em tecnologias modernas para criação de soluções eficientes e escaláveis.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abraãolevivitoriano" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:leviabraao677@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-  </a>
-</p>
+### 👨‍💻 About Me
+Full Stack Developer and Information Systems undergraduate, focused on modern web development and building scalable, well-structured applications.  
+I have experience with front-end frameworks and back-end API development, always aiming for clean code, maintainability, and best practices.
 
 ---
 
-### Tech Stack
+## <a id="-português"></a>🇧🇷 Português
 
-<table>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Banco de Dados</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwindcss"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Ferramentas</strong></td>
-    <td align="center"><strong>Versionamento</strong></td>
-    <td align="center"><strong>Design</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Sobre Mim
+Desenvolvedor Full Stack e graduando em Sistemas de Informação, focado no desenvolvimento web moderno e na construção de aplicações escaláveis e bem estruturadas.  
+Tenho experiência com frameworks front-end e desenvolvimento de APIs back-end, sempre visando código limpo, manutenibilidade e melhores práticas.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Version Control
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 🏆 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abraao8levi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abraao8levi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abraao8levi&theme=radical" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao8levi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/Abraao8levi">Abraão Levi</a></sub>
+</div>
