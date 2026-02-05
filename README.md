@@ -80,17 +80,3 @@ Tenho experiência com frameworks front-end e desenvolvimento de APIs back-end, 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 🏆 GitHub Stats
-
-<!-- Badges de estatísticas do GitHub -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abraao8levi&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A&v=1)](https://github-profile-trophy.vercel.app/?username=Abraao8levi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abraao8levi&show_icons=true&theme=radical&hide_border=true)](https://github.com/Abraao8levi)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abraao8levi&theme=radical)](https://github.com/Abraao8levi)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao8levi&layout=compact&theme=radical&hide_border=true)](https://github.com/Abraao8levi?tab=repositories)
-
