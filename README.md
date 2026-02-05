@@ -85,20 +85,10 @@ Tenho experiência com frameworks front-end e desenvolvimento de APIs back-end, 
 
 ## 🏆 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abraao8levi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=Abraao8levi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abraao8levi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abraao8levi&theme=radical" alt="Streak Stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abraao8levi&show_icons=true&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abraao8levi&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao8levi&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao8levi&layout=compact&theme=radical)
 
----
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/Abraao8levi">Abraão Levi</a></sub>
-</div>
