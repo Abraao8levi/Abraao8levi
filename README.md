@@ -85,10 +85,12 @@ Tenho experiência com frameworks front-end e desenvolvimento de APIs back-end, 
 
 ## 🏆 GitHub Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Abraao8levi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!-- Badges de estatísticas do GitHub -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abraao8levi&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A&v=1)](https://github-profile-trophy.vercel.app/?username=Abraao8levi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abraao8levi&show_icons=true&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abraao8levi&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abraao8levi&show_icons=true&theme=radical&hide_border=true)](https://github.com/Abraao8levi)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao8levi&layout=compact&theme=radical)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abraao8levi&theme=radical)](https://github.com/Abraao8levi)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao8levi&layout=compact&theme=radical&hide_border=true)](https://github.com/Abraao8levi?tab=repositories)
 
